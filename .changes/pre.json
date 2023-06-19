@@ -2,8 +2,16 @@
   "tag": "alpha",
   "changes": [
     ".changes/notification-init-script.md",
+    ".changes/notification-revert-sound.md",
     ".changes/notification-sound.md",
+    ".changes/os-plugin-refactor.md",
     ".changes/stronghold-constructor.md",
-    ".changes/v2-alpha.md"
+    ".changes/updater-nsis.md",
+    ".changes/v2-alpha.md",
+    ".changes/window-incognito.md",
+    ".changes/window-is-focused.md",
+    ".changes/window-set-effects.md",
+    ".changes/window-state-decorated.md",
+    ".changes/window-state-promise.md"
   ]
 }
